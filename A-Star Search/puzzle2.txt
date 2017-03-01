@@ -1,0 +1,7 @@
+6 2
+0 e e e e e
+e e e e e e
+e e 1 e e e
+e e e e 0 e
+e e e e e e
+1 e e e e e

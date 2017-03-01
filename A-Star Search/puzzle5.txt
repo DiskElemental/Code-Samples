@@ -1,0 +1,12 @@
+11 9
+e e e e e e e e e e e
+e e e e e e e e e e e
+e e e e e e e e 8 e e
+e e e e 0 4 e e 8 e e
+e e e e e 4 e e 7 e e
+e e e e e 3 e e 7 e e
+e e e e e 3 e e 6 e e
+e e e e e 2 e e 6 e e
+e e e e e 2 0 e 1 e e
+e e e e e e 5 5 1 e e
+e e e e e e e e e e e
